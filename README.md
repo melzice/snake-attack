@@ -14,8 +14,7 @@ Designed for fun — and as a screen-breaking escape from work. 😉
 ### 1. Clone the repo or download the `.py` file
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/snack-attack.git
-cd snack-attack
+Download this repository as a ZIP by clicking the green “Code” button above, then unzip it.
 
 2. Install Dependecies
 pip install -r requirements.txt
